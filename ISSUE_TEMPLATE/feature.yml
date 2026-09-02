@@ -1,0 +1,36 @@
+name: Feature
+description: Nueva funcionalidad del Portal FE
+title: "feat(<scope>): "
+labels: ["fiscal"]
+body:
+  - type: dropdown
+    id: componente
+    attributes:
+      label: Componente
+      options: [WPPortalFE, WebPOSApis, Ambos]
+    validations: { required: true }
+  - type: dropdown
+    id: pais
+    attributes:
+      label: País afectado
+      multiple: true
+      options: [PA, DO, CR]
+    validations: { required: true }
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto / problema
+    validations: { required: true }
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - [ ]
+        - [ ]
+    validations: { required: true }
+  - type: textarea
+    id: impacto
+    attributes:
+      label: Impacto técnico
+      description: Migraciones, cambios de contrato de API, riesgo en legacy
