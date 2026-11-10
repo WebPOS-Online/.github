@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/webpos-onlline/.github/profile/logo.png" alt="WebPOS Online" width="120" />
-
 # 🧾 WebPOS Online
 
 ### ☁️ Software comercial en la nube para el retail y la facturación electrónica en Latinoamérica
@@ -13,14 +9,6 @@
 [![Costa Rica](https://img.shields.io/badge/🇨🇷_Costa_Rica-Hacienda-C8102E?style=for-the-badge&labelColor=1a1a1a)](#-referencias-fiscales-oficiales)
 
 <br/>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fwebpos-onlline&query=%24.public_repos&label=repositorios&style=flat-square&color=6366f1&logo=github)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-8%20%7C%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
